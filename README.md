@@ -1,5 +1,9 @@
 # 🧠 Mnemosyne HDD Tool
 
+<p align="center">
+<img src="https://github.com/Noxenavi/Mnemosyne-PS3-HDD-Tool/blob/53a95e37722cbfb94db50d4648496a18466d252e/mnemosyne%20logo.png" width="500" alt="mnemosyne logo">
+</p>
+
 Open-source homebrew utility for PlayStation 3 focused on HDD analysis and storage management.
 
 ---
